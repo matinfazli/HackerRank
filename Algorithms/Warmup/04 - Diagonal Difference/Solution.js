@@ -2,7 +2,7 @@
 // HackerRank Adventures (https://github.com/matinfazli/hackerrank)
 //
 // Author - Matin Fazli (https://github.com/matinfazli)
-// Original challenge (https://www.hackerrank.com/challenges/a-very-big-sum)
+// Original challenge (https://www.hackerrank.com/challenges/diagonal-difference)
 //
 
 // Original Input & Output
