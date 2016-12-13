@@ -19,15 +19,19 @@ main(stdin)
 
 // Main function
 function main() {
+	// Creating integer arrays of scores for each person
 	var aliceTemp = stdin[0].split(' ').map(Number);
 	var bobTemp = stdin[1].split(' ').map(Number);
-		
+	
+	// Initializing scores for each player
 	var aliceScore = 0, bobScore = 0;
 		
+	// Loop through scores and compare them
 	for (var i = 0; i < aliceTemp.length; i++) {
 		if (aliceTemp[i] > bobTemp[i]) aliceScore += 1;
 		if (aliceTemp[i] < bobTemp[i]) bobScore += 1;
 	}
-		
+	
+	// Output
 	console.log(aliceScore, bobScore);
 }
