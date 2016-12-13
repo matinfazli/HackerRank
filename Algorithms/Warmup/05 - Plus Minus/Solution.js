@@ -11,7 +11,7 @@
 // Input
 var stdin = ['6', '-4 3 -9 0 4 1'];
 // Running main function for output
-main(stdin)
+main(stdin);
 
 
 // Solution Starts
