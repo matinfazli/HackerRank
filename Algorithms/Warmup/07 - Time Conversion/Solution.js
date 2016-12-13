@@ -23,10 +23,7 @@ function main() {
 	var time = stdin[0].match(/(\d+):(\d+):(\d+)(..)/);
 
 	// Create an object with hour, minute, second and meridian.
-	var timeObj = {	'hh': Number(time[1]), 
-									'mm': Number(time[2]), 
-                	'ss': Number(time[3]), 
-                	'meridian': time[4] };
+	var timeObj = {'hh': Number(time[1]), 'mm': Number(time[2]), 'ss': Number(time[3]), 'meridian': time[4]};
 
   // Change 12-Hour format to 24-Hour.
 	if (timeObj.meridian == 'PM' && timeObj.hh < 12) timeObj.hh += 12;
