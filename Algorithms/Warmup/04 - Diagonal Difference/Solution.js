@@ -20,11 +20,11 @@ main(stdin);
 
 // Main function
 function main() {
-	// Size of the array
-	var n = stdin[0];
+    // Size of the array
+    var n = stdin[0];
 	
-	// Initialize new array
-	var arr = [];
+    // Initialize new array
+    var arr = [];
 	// Looping through input, creating and adding an array of integers for each.
 	for (var i = 1; i < stdin.length; i++) {
 		arr.push(stdin[i].split(' ').map(Number));

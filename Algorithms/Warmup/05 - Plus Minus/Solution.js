@@ -20,12 +20,12 @@ main(stdin);
 
 // Main function
 function main() {
-	// Size of the array
-	var n = stdin[0];
-	// Creating an array of integers from the input
-	var arr = stdin[1].split(' ').map(Number);
-	// Initializing variables for positive, negative and zero counts.
-	var pCount = 0, nCount = 0, zCount = 0, sum = arr.length;
+    // Size of the array
+    var n = stdin[0];
+    // Creating an array of integers from the input
+    var arr = stdin[1].split(' ').map(Number);
+    // Initializing variables for positive, negative and zero counts.
+    var pCount = 0, nCount = 0, zCount = 0, sum = arr.length;
 
 	// Looping through the array and counting.
 	for (var i = 0; i < arr.length; i++) {

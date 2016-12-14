@@ -20,10 +20,10 @@ main(stdin);
 
 // Main function
 function main() {
-	// Size of the staircase
-	var n = parseInt(stdin[0]);
+    // Size of the staircase
+    var n = parseInt(stdin[0]);
 
-	// Two dimensional array concept
+    // Two dimensional array concept
 	for (var i = 0; i < n; i++) {
 		// Clear the output after each loop
 		var output = '';
@@ -36,5 +36,4 @@ function main() {
 		// Output
 		console.log(output);
 	}
-
 }
