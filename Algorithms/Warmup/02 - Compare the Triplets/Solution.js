@@ -6,7 +6,7 @@
 //
 
 // Original Input & Output
-// ===============
+// =======================
 
 // Input
 var stdin = ['5 6 7', '3 6 10'];
@@ -16,6 +16,7 @@ main(stdin);
 
 // Solution Starts
 // ===============
+// IMP: In HackerRank replace stdin(s) with readLine()
 
 // Main function
 function main() {
