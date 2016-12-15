@@ -5,13 +5,8 @@
 // Original challenge (https://www.hackerrank.com/challenges/circular-array-rotation)
 //
 
-// Original Input & Output
-// =======================
-
-// Input
-var stdin = ['3 2 3', '1 2 3', '0', '1', '2'];
 // Running main function for output
-main(stdin);
+main(['3 2 3', '1 2 3', '0', '1', '2']);
 
 
 // Solution Starts
@@ -19,7 +14,7 @@ main(stdin);
 // IMP: In HackerRank replace stdin(s) with readLine()
 
 // Main function
-function main() {
+function main(stdin) {
     // Creating array of integers for the first two lines of input.
     var n_arr = stdin[0].split(' ').map(Number), 
         m_arr = stdin[1].split(' ').map(Number);

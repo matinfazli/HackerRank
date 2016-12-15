@@ -5,13 +5,8 @@
 // Original challenge (https://www.hackerrank.com/challenges/kangaroo)
 //
 
-// Original Input & Output
-// =======================
-
-// Input
-var stdin = ['0 3 4 2'];
 // Running main function for output
-main(stdin);
+main(['0 3 4 2']);
 
 
 // Solution Starts
@@ -19,7 +14,7 @@ main(stdin);
 // IMP: In HackerRank replace stdin(s) with readLine()
 
 // Main function
-function main() {
+function main(stdin) {
     // Get input and turn it into array of integers.
     var arr = stdin[0].split(' ').map(Number);
     // Create required variables

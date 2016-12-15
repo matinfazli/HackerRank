@@ -5,13 +5,8 @@
 // Original challenge (https://www.hackerrank.com/challenges/compare-the-triplets)
 //
 
-// Original Input & Output
-// =======================
-
-// Input
-var stdin = ['5 6 7', '3 6 10'];
 // Running main function for output
-main(stdin);
+main(['5 6 7', '3 6 10']);
 
 
 // Solution Starts
@@ -19,7 +14,7 @@ main(stdin);
 // IMP: In HackerRank replace stdin(s) with readLine()
 
 // Main function
-function main() {
+function main(stdin) {
 	// Creating integer arrays of scores for each person
 	var aliceTemp = stdin[0].split(' ').map(Number);
 	var bobTemp = stdin[1].split(' ').map(Number);

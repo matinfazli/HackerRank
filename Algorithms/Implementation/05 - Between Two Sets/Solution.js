@@ -5,13 +5,8 @@
 // Original challenge (https://www.hackerrank.com/challenges/between-two-sets)
 //
 
-// Original Input & Output
-// =======================
-
-// Input
-var stdin = ['2 3', '2 4', '16 32 96'];
 // Running main function for output
-main(stdin);
+main(['2 3', '2 4', '16 32 96']);
 
 
 // Solution Starts
@@ -19,7 +14,7 @@ main(stdin);
 // IMP: In HackerRank replace stdin(s) with readLine()
 
 // Main function
-function main() {
+function main(stdin) {
     // Get inputs and turn them into array of integers.
     var counts = stdin[0].split(' ').map(Number),
         setA = stdin[1].split(' ').map(Number),

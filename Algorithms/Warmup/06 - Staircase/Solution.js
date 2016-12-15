@@ -5,13 +5,8 @@
 // Original challenge (https://www.hackerrank.com/challenges/staircase)
 //
 
-// Original Input & Output
-// =======================
-
-// Input
-var stdin = ['6'];
 // Running main function for output
-main(stdin);
+main(['6']);
 
 
 // Solution Starts
@@ -19,7 +14,7 @@ main(stdin);
 // IMP: In HackerRank replace stdin(s) with readLine()
 
 // Main function
-function main() {
+function main(stdin) {
     // Size of the staircase
     var n = parseInt(stdin[0]);
 

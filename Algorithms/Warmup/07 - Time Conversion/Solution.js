@@ -5,13 +5,8 @@
 // Original challenge (https://www.hackerrank.com/challenges/time-conversion)
 //
 
-// Original Input & Output
-// =======================
-
-// Input
-var stdin = ['07:05:45PM'];
 // Running main function for output
-main(stdin);
+main(['07:05:45PM']);
 
 
 // Solution Starts
@@ -19,7 +14,7 @@ main(stdin);
 // IMP: In HackerRank replace stdin(s) with readLine()
 
 // Main function
-function main() {
+function main(stdin) {
     // Convert old time string '07:05:45PM' to an array like [07,05,45,PM].
     var time = stdin[0].match(/(\d+):(\d+):(\d+)(..)/);
 

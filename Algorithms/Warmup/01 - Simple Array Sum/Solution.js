@@ -5,13 +5,8 @@
 // Original challenge (https://www.hackerrank.com/challenges/simple-array-sum)
 //
 
-// Original Input & Output
-// =======================
-
-// Input
-var stdin = ['6', '1 2 3 4 10 11'];
 // Running main function for output
-main(stdin);
+main(['6', '1 2 3 4 10 11']);
 
 
 // Solution Starts
@@ -19,7 +14,7 @@ main(stdin);
 // IMP: In HackerRank replace stdin(s) with readLine()
 
 // Main function
-function main() {
+function main(stdin) {
 	// Size of the array
 	var n = stdin[0];
 	// Creating an array of integers from the input

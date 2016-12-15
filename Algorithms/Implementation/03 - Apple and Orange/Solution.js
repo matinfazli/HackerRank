@@ -5,13 +5,8 @@
 // Original challenge (https://www.hackerrank.com/challenges/apple-and-orange)
 //
 
-// Original Input & Output
-// =======================
-
-// Input
-var stdin = ['7 11', '5 15', '3 2', '-2 2 1', '5 -6'];
 // Running main function for output
-main(stdin);
+main(['7 11', '5 15', '3 2', '-2 2 1', '5 -6']);
 
 
 // Solution Starts
@@ -19,7 +14,7 @@ main(stdin);
 // IMP: In HackerRank replace stdin(s) with readLine()
 
 // Main function
-function main() {
+function main(stdin) {
     // Get each line and turn them into array of integers.
     var housePos = stdin[0].split(' ').map(Number),
         treePos = stdin[1].split(' ').map(Number),

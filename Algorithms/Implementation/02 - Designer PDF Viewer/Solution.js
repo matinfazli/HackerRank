@@ -5,13 +5,8 @@
 // Original challenge (https://www.hackerrank.com/challenges/designer-pdf-viewer)
 //
 
-// Original Input & Output
-// =======================
-
-// Input
-var stdin = ['1 3 1 3 1 4 1 3 2 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5', 'abc'];
 // Running main function for output
-main(stdin);
+main(['1 3 1 3 1 4 1 3 2 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5', 'abc']);
 
 
 // Solution Starts
@@ -19,7 +14,7 @@ main(stdin);
 // IMP: In HackerRank replace stdin(s) with readLine()
 
 // Main function
-function main() {
+function main(stdin) {
     // Get the heights as an array of integers, and word as array of string
     var h = stdin[0].split(' ').map(Number), word = stdin[1].split('');
     // Creating an alphabet array manually.

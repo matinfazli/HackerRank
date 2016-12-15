@@ -5,13 +5,8 @@
 // Original challenge (https://www.hackerrank.com/challenges/plus-minus)
 //
 
-// Original Input & Output
-// =======================
-
-// Input
-var stdin = ['6', '-4 3 -9 0 4 1'];
 // Running main function for output
-main(stdin);
+main(['6', '-4 3 -9 0 4 1']);
 
 
 // Solution Starts
@@ -19,7 +14,7 @@ main(stdin);
 // IMP: In HackerRank replace stdin(s) with readLine()
 
 // Main function
-function main() {
+function main(stdin) {
     // Size of the array
     var n = stdin[0];
     // Creating an array of integers from the input

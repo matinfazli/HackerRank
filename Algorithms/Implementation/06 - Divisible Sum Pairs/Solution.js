@@ -5,13 +5,8 @@
 // Original challenge (https://www.hackerrank.com/challenges/divisible-sum-pairs)
 //
 
-// Original Input & Output
-// =======================
-
-// Input
-var stdin = ['6 3', '1 3 2 6 1 2'];
 // Running main function for output
-main(stdin);
+main(['6 3', '1 3 2 6 1 2']);
 
 
 // Solution Starts
@@ -19,7 +14,7 @@ main(stdin);
 // IMP: In HackerRank replace stdin(s) with readLine()
 
 // Main function
-function main() {
+function main(stdin) {
     // Get inputs and turn them into array of integers.
     var nk = stdin[0].split(' ').map(Number),
         arr = stdin[1].split(' ').map(Number);

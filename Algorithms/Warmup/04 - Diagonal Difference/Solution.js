@@ -5,13 +5,8 @@
 // Original challenge (https://www.hackerrank.com/challenges/diagonal-difference)
 //
 
-// Original Input & Output
-// =======================
-
-// Input
-var stdin = ['3', '11 2 4', '4 5 6', '10 8 -12'];
 // Running main function for output
-main(stdin);
+main(['3', '11 2 4', '4 5 6', '10 8 -12']);
 
 
 // Solution Starts
@@ -19,7 +14,7 @@ main(stdin);
 // IMP: In HackerRank replace stdin(s) with readLine()
 
 // Main function
-function main() {
+function main(stdin) {
     // Size of the array
     var n = stdin[0];
 	
