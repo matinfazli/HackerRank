@@ -13,33 +13,33 @@ Cheers!
 * __Algorithms__
 
     * __Warmup__
-        * [Simple Array Sum](./Algorithms/Warmup/01%20-%20Simple%20Array%20Sum)
-        * [Compare the Triplets](./Algorithms/Warmup/02%20-%20Compare%20the%20Triplets)
-        * [A Very Big Sum](./Algorithms/Warmup/03%20-%20A%20Very%20Big%20Sum)
-        * [Diagonal Difference](./Algorithms/Warmup/04%20-%20Diagonal%20Difference)
-        * [Plus Minus](./Algorithms/Warmup/05%20-%20Plus%20Minus)
-        * [Staircase](./Algorithms/Warmup/06%20-%20Staircase)
-        * [Time Conversion](./Algorithms/Warmup/07%20-%20Time%20Conversion)
-        * [Circular Array Rotation](./Algorithms/Warmup/08%20-%20Circular%20Array%20Rotation)
+        * [Simple Array Sum](./algorithms/01-warmup/01-simple-array-sum)
+        * [Compare the Triplets](./algorithms/01-warmup/02-compare-the-triplets)
+        * [A Very Big Sum](./algorithms/01-warmup/03-a-very-big-sum)
+        * [Diagonal Difference](./algorithms/01-warmup/04-diagonal-difference)
+        * [Plus Minus](./algorithms/01-warmup/05-plus-minus)
+        * [Staircase](./algorithms/01-warmup/06-staircase)
+        * [Time Conversion](./algorithms/01-warmup/07-time-conversion)
+        * [Circular Array Rotation](./algorithms/01-warmup/08-circular-array-rotation)
         
     * __Implementation__
-        * [Mini-Max Sum](./Algorithms/Implementation/01%20-%20Mini-Max%20Sum)
-        * [Designer PDF Viewer](./Algorithms/Implementation/02%20-%20Designer%20PDF%20Viewer)
-        * [Apple and Orange](./Algorithms/Implementation/03%20-%20Apple%20and%20Orange)
-        * [Kangaroo](./Algorithms/Implementation/04%20-%20Kangaroo)
-        * [Between Two Sets](./Algorithms/Implementation/05%20-%20Between%20Two%20Sets)
-        * [Divisible Sum Pairs](./Algorithms/Implementation/06%20-%20Divisible%20Sum%20Pairs)
-        * [Bon Appetit](./Algorithms/Implementation/07%20-%20Bon%20Appetit)
-        * [Sock Merchant](./Algorithms/Implementation/08%20-%20Sock%20Merchant)
-        * [Utopian Tree](./Algorithms/Implementation/09%20-%20Utopian%20Tree)
-        * [Angry Professor](./Algorithms/Implementation/10%20-%20Angry%20Professor)
-        * [Beautiful Days at the Movies](./Algorithms/Implementation/11%20-%20Beautiful%20Days%20at%20the%20Movies)
-        * [Viral Advertising](./Algorithms/Implementation/12%20-%20Viral%20Advertising)
-        * [Save the Prisoner](./Algorithms/Implementation/13%20-%20Save%20the%20Prisoner)
+        * [Mini-Max Sum](./algorithms/02-implementation/01-mini-max-sum)
+        * [Designer PDF Viewer](./algorithms/02-implementation/02-designer-pdf-viewer)
+        * [Apple and Orange](./algorithms/02-implementation/03-apple-and-orange)
+        * [Kangaroo](./algorithms/02-implementation/04-kangaroo)
+        * [Between Two Sets](./algorithms/02-implementation/05-between-two-sets)
+        * [Divisible Sum Pairs](./algorithms/02-implementation/06-divisible-sum-pairs)
+        * [Bon Appetit](./algorithms/02-implementation/07-bon-appetit)
+        * [Sock Merchant](./algorithms/02-implementation/08-sock-merchant)
+        * [Utopian Tree](./algorithms/02-implementation/09-utopian-tree)
+        * [Angry Professor](./algorithms/02-implementation/10-angry-professor)
+        * [Beautiful Days at the Movies](./algorithms/02-implementation/11-beautiful-days-at-the-movies)
+        * [Viral Advertising](./algorithms/02-implementation/12-viral-advertising)
+        * [Save the Prisoner](./algorithms/02-implementation/13-save-the-prisoner)
         
 * __Contests__
    
    * __Week of Code 27__
-      * [Drawing Book](./Contests/Week%20of%20Code%2027/01%20-%20Drawing%20Book)
+      * [Drawing Book](./contests/week-of-code-27/01-drawing-book)
       
       
