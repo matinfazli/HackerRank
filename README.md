@@ -31,3 +31,15 @@ Cheers!
         * [Divisible Sum Pairs](./Algorithms/Implementation/06%20-%20Divisible%20Sum%20Pairs)
         * [Bon Appetit](./Algorithms/Implementation/07%20-%20Bon%20Appetit)
         * [Sock Merchant](./Algorithms/Implementation/08%20-%20Sock%20Merchant)
+        * [Utopian Tree](./Algorithms/Implementation/09%20-%20Utopian%20Tree)
+        * [Angry Professor](./Algorithms/Implementation/10%20-%20Angry%20Professor)
+        * [Beautiful Days at the Movies](./Algorithms/Implementation/11%20-%20Beautiful%20Days%20at%20the%20Movies)
+        * [Viral Advertising](./Algorithms/Implementation/12%20-%20Viral%20Advertising)
+        * [Save the Prisoner](./Algorithms/Implementation/13%20-%20Save%20the%20Prisoner)
+        
+* __Contests__
+   
+   * __Week of Code 27__
+      * [Drawing Book](./Contests/Week%20of%20Code%2027/01%20-%20Drawing%20Book)
+      
+      
